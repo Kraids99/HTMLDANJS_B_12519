@@ -278,6 +278,7 @@ header {
 .schedule-table td {
   background: #f9f9f9;
   color: #34495e;
+  align-content: center;
 }
 
 .schedule-table tr:nth-child(even) td {
